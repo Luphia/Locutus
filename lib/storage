@@ -1,0 +1,20 @@
+var redis = require("redis");
+
+var client,
+	config;
+
+var jobs = function() {
+	return {};
+};
+
+var nodes = function() {
+	return {};
+};
+
+var workers = function() {
+	return {};
+};
+
+module.exports = function() {
+	return {};
+};
